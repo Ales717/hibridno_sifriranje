@@ -1,0 +1,1 @@
+Izdelajte aplikacijo z grafičnim vmesnikom, ki bo omogočala varen prenos datotek. Varen prenos datotek boste zagotovili z uporabo hibridnega šifriranja (asimetrično in simetrično šifriranje). Izbira algoritmov je poljubna, vendar boste na zagovoru morali utemeljiti izbiro
